@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Financeiro",
+    "color": {
+      "hex": "#58c30c"
+    },
+    "id": 1
+  },
+  {
+    "name": "Estudos",
+    "color": {
+      "hex": "#197DE1"
+    },
+    "id": 2
+  },
+  {
+    "name": "Trabalho",
+    "color": {
+      "hex": "#E90421"
+    },
+    "id": 3
+  },
+  {
+    "name": "Pessoal",
+    "color": {
+      "hex": "#F1CB0D"
+    },
+    "id": 6
+  }
+]
