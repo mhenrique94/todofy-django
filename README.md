@@ -1,6 +1,6 @@
 # todofy 2
 
-### Versão 2 do aplicativo todofy, feito inteiramente em componentes Vuejs e configurado para backend externo (ouve a porta 8080 do localhost)
+### Versão 2 do aplicativo todofy, feito inteiramente em componentes Vuejs e configurado para backend externo (ouve a porta 8000 do localhost)
 
 Essa aplicação está sendo criada com base no desafio proposto em sala do programa Busertech @ Buser, por Roger Carmago.
 
